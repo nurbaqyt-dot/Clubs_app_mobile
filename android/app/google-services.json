@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "742432606035",
+    "project_id": "jihc-clubs",
+    "storage_bucket": "jihc-clubs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742432606035:android:2480a3794ccd4faf66c3a6",
+        "android_client_info": {
+          "package_name": "com.example.jihc_clubs_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742432606035-9iclisdehvmdmda64r827hn9feoo1kjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn6sdujQlGCGiUNNks4oSu2a4QbStkwIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742432606035-9iclisdehvmdmda64r827hn9feoo1kjj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "742432606035-uq1djtb5u0me6eitf29sc09ekn0on9lq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jihcClubsHub"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742432606035:android:913e4138b1af8e3f66c3a6",
+        "android_client_info": {
+          "package_name": "com.example.jihclubs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742432606035-hu52f8js78masg9nb1fe7h8ml8356lp9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jihclubs",
+            "certificate_hash": "4be14efd445477c5538cdc549b06b32a2647dca9"
+          }
+        },
+        {
+          "client_id": "742432606035-9iclisdehvmdmda64r827hn9feoo1kjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn6sdujQlGCGiUNNks4oSu2a4QbStkwIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742432606035-9iclisdehvmdmda64r827hn9feoo1kjj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "742432606035-uq1djtb5u0me6eitf29sc09ekn0on9lq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jihcClubsHub"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
